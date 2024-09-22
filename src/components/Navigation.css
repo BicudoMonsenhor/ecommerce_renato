@@ -1,0 +1,9 @@
+.nav-icon {
+    margin-right: 8px;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .nav-link:hover .nav-icon {
+    transform: scale(1.2);
+  }
+  
